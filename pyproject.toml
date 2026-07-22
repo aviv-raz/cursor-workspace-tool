@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cursor-workspace-tool"
-version = "0.1.1"
+version = "0.1.2"
 description = "Inspect and manage Cursor workspaces and AI Chat / Composer history across Windows and WSL/Linux."
 readme = "README.md"
 requires-python = ">=3.8"
